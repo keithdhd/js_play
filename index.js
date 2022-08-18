@@ -2,4 +2,4 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log("OK");
 })
 
-document.createElement();
+document.createElement('button');
